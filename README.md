@@ -1,7 +1,7 @@
 kohana-layout
 =============
 
-A layout module I develop for learning purposes and personal intentions only. Not for production. My aim in this work is to cut down time managing HTML codes.
+A layout module I develop for learning purposes and personal intentions only. Not for production. My aim in this work is to cut down time managing HTML codes. Available only in Kohana Framework v3.2
 
 Bootstrap
 ======================
