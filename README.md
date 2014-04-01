@@ -35,3 +35,4 @@ html_table() function
 
 $records = $this->getRecords(); // results of a multi dimensional array
 $presentation_tier->table = $layout->html_table($records); // renders data in form of html table
+
